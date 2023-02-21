@@ -5,7 +5,7 @@ Skills: NEXTJS / REACTJS / JS / TS / HTML / CSS-SCSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hipns1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jesús-david-pérez-ferrer-a72117164/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](jesús-david-pérez-ferrer-a72117164/)  
+[<img src='https://res.cloudinary.com/hipns1/image/upload/v1677011066/icons8-github-256_rbfifn.png' alt='github' height='40'>](https://github.com/Hipns1)  [<img src='https://res.cloudinary.com/hipns1/image/upload/v1677011156/icons8-linkedin-256_poeq6o.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jesús-david-pérez-ferrer-a72117164/)  [<img src='https://res.cloudinary.com/hipns1/image/upload/v1677011160/icons8-curr%C3%ADculum-96_ianxw3.png' alt='website' height='40'>](https://portafolio-jdpf.netlify.app/)  
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hipns1&theme=dark&background=000000)](https://git.io/streak-stats)
